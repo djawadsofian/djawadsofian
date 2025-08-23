@@ -83,12 +83,12 @@ Backend: Django REST Framework, PostgreSQL, Redis, JWT Authentication
 
 📸 *Some Screenshots:*  
 <p align="center">
-  <img src="assets/pfe-1.jpg" width="150" />
-  <img src="assets/pfe-2.png" width="150" />
-  <img src="assets/pfe-3.png" width="150" />
-  <img src="assets/pfe-4.png" width="150" />
-  <img src="assets/pfe-5.png" width="150" />
-  <img src="assets/pfe-6.png" width="150" />
+  <img src="assets/1.jpg" width="300" />
+  <img src="assets/2.png" width="300" />
+  <img src="assets/3.png" width="300" />
+  <img src="assets/4.png" width="300" />
+  <img src="assets/5.png" width="300" />
+  <img src="assets/6.png" width="300" />
 </p>
 
 ---
@@ -113,12 +113,12 @@ Others: Docker, Git, modern deployment practices
 
 📸 *Some Screenshots:*  
 <p align="center">
-  <img src="assets/library-1.png" width="150" />
-  <img src="assets/library-2.png" width="150" />
-  <img src="assets/library-3.png" width="150" />
-  <img src="assets/library-4.png" width="150" />
-  <img src="assets/library-5.png" width="150" />
-  <img src="assets/library-6.png" width="150" />
+  <img src="assets/1.PNG" width="300" />
+  <img src="assets/2.PNG" width="300" />
+  <img src="assets/3.PNG" width="300" />
+  <img src="assets/8.PNG" width="300" />
+  <img src="assets/5.PNG" width="300" />
+  <img src="assets/6.PNG" width="300" />
 </p>
 
 ---
