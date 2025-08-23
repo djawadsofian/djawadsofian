@@ -55,7 +55,8 @@
 *(Proof of professional expertise in the React ecosystem)*  
 
 📸 *Certificate Preview:*  
-![React Certificate](assets/react-certificate.jpg)  
+
+<img src="assets/react-certificate.jpg" width="800" />  
 
 ---
 
@@ -71,12 +72,12 @@ A **large-scale project** developed as my final year project.
 
 📸 *Screenshots:*  
 <p align="center">
-  <img src="assets/pfe-1.png" width="150" />
-  <img src="assets/pfe-2.png" width="150" />
-  <img src="assets/pfe-3.png" width="150" />
-  <img src="assets/pfe-4.png" width="150" />
-  <img src="assets/pfe-5.png" width="150" />
-  <img src="assets/pfe-6.png" width="150" />
+  <img src="assets/1.jpg" width="150" />
+  <img src="assets/2.png" width="150" />
+  <img src="assets/3.png" width="150" />
+  <img src="assets/4.png" width="150" />
+  <img src="assets/5.png" width="150" />
+  <img src="assets/6.png" width="150" />
 </p>
 
 ---
@@ -89,12 +90,12 @@ A **professional website for a client’s library**, including book listings, se
 
 📸 *Screenshots:*  
 <p align="center">
-  <img src="assets/library-1.png" width="150" />
-  <img src="assets/library-2.png" width="150" />
-  <img src="assets/library-3.png" width="150" />
-  <img src="assets/library-4.png" width="150" />
-  <img src="assets/library-5.png" width="150" />
-  <img src="assets/library-6.png" width="150" />
+  <img src="assets/1.PNG" width="150" />
+  <img src="assets/2.PNG" width="150" />
+  <img src="assets/3.PNG" width="150" />
+  <img src="assets/4.PNG" width="150" />
+  <img src="assets/5.PNG" width="150" />
+  <img src="assets/6.PNG" width="150" />
 </p>
 
 ---
