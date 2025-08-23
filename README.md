@@ -1,6 +1,6 @@
 # Hi, I'm Djawad Sofian 👋  
 💻 **Professional Frontend Developer** | React • TypeScript • Tailwind • Next.js  
-📱 Mobile Developer (Kotlin • Jetpack Compose)  
+📱 Android Developer (Kotlin & Jetpack Compose)  
 
 ---
 
@@ -13,9 +13,9 @@
 ---
 
 # 🌱 Currently Learning
-📌 Expanding into **Backend Development** with:  
+📌 Expanding into **Backend Development** using:  
 - 🐍 Python  
-- ⚡ Django
+- ⚡ Django  
 
 ---
 
@@ -31,16 +31,16 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
+### ⚙️ Backend & Tools
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+
 ### 📱 Mobile
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=fff)
-
-### ⚙️ Backend & Tools
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
 ### 🛠 Other Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
@@ -56,94 +56,77 @@
 
 📸 *Certificate Preview:*  
 
-<img src="assets/react-certificate.jpg" width="800" />  
+<img src="assets/react-certificate.jpg" width="70%" />  
 
 ---
 
 ## 🚀 Major Projects
 
+> 🛠 Both projects were developed as part of **team collaborations**, where I played a key role in frontend development and system integration.
+
 ### 🔹 🎓 ProjectTrack – Academic Project Management Platform
 
-Description:
-ProjectTrack is a full-featured academic project management platform I developed during my Master's studies at ESI SBA. The platform connects students, professors, companies, and administrators in one ecosystem, making project management more transparent, collaborative, and efficient.
+A full-featured academic project management platform developed during my Master's studies at **ESI SBA**. The platform connects students, professors, companies, and administrators in one ecosystem, making project management more transparent, collaborative, and efficient.  
 
-Highlights:
+✅ Role-based dashboards tailored for students, professors, and administrators  
+✅ Real-time collaboration with WebSocket technology (notifications, instant updates)  
+✅ Full project lifecycle: proposal → validation → evaluation  
+✅ Specialization-based organization (ISI, SIW, AI)  
+✅ High-performance architecture (Redux + Redis caching)  
+✅ Enterprise-grade security with JWT authentication and RBAC  
 
-✅ Built role-based dashboards tailored for students, professors, and administrators.
+**Tech Stack**  
+Frontend: React.js (TypeScript), Tailwind CSS, Redux, WebSockets  
+Backend: Django REST Framework, PostgreSQL, Redis, JWT Authentication  
 
-✅ Enabled real-time collaboration with WebSocket technology (live notifications, instant project updates).
-
-✅ Designed and implemented the entire project lifecycle (proposal → validation → evaluation).
-
-✅ Organized projects across different specializations (ISI, SIW, AI) with scalable data models.
-
-✅ Delivered a high-performance architecture with Redux state management and Redis caching.
-
-✅ Ensured enterprise-grade security with JWT authentication and role-based access control.
-
-Tech Stack:
-
-Frontend: React.js (TypeScript), Tailwind CSS, Redux, WebSockets
-
-Backend: Django REST Framework, PostgreSQL, Redis, JWT Authentication
-
-👉 [View Repository](https://github.com/Yacine-Djaaraoui/PFE) 
+👉 [View Repository](https://github.com/Yacine-Djaaraoui/PFE)  
 
 📸 *Some Screenshots:*  
 <p align="center">
-  <img src="assets/1.jpg" width="150" />
-  <img src="assets/2.png" width="150" />
-  <img src="assets/3.png" width="150" />
-  <img src="assets/4.png" width="150" />
-  <img src="assets/5.png" width="150" />
-  <img src="assets/6.png" width="150" />
+  <img src="assets/pfe-1.jpg" width="150" />
+  <img src="assets/pfe-2.png" width="150" />
+  <img src="assets/pfe-3.png" width="150" />
+  <img src="assets/pfe-4.png" width="150" />
+  <img src="assets/pfe-5.png" width="150" />
+  <img src="assets/pfe-6.png" width="150" />
 </p>
 
 ---
 
 ### 🔹 📚 The Official State Library Website of Tissemsilt
 
-This project involved building a modern, multilingual, and responsive website for the official state library of Tissemsilt. The platform was designed to provide a seamless digital experience for library visitors while giving administrators a powerful dashboard for managing content.
+A modern, multilingual, and responsive website for the **official state library of Tissemsilt**. The platform delivers a seamless digital experience for visitors while providing administrators with powerful tools for content and facility management.  
 
-🌟 Key Highlights
+🌟 20+ fully responsive pages with dynamic UI components  
+🌟 Multilingual support (Arabic, French, English)  
+🌟 Room reservation system for study halls & facilities  
+🌟 Book browsing & rating system with comment sections  
+🌟 Dynamic testimonials to showcase community engagement  
+🌟 Admin dashboard for content, events, and announcements  
 
-20+ fully responsive pages with rich, user-friendly UI components.
+**Tech Stack**  
+Frontend: React, TypeScript, TailwindCSS, TanStack Query, Redux  
+Backend: Django REST Framework, PostgreSQL  
+Others: Docker, Git, modern deployment practices  
 
-Multilingual support (Arabic, French, English) ensuring accessibility for diverse users.
-
-Room reservation system for managing study halls and library facilities.
-
-Book browsing & rating system with interactive comment sections.
-
-Dynamic testimonial section showcasing community engagement.
-
-Admin dashboard for content management, events, and announcements.
-
-🛠️ Tech Stack
-
-Frontend: React, TypeScript, TailwindCSS, TanStack Query, Redux
-
-Backend: Django REST Framework, PostgreSQL
-
-Others: Docker, Git, modern deployment practices
-
-
-- Repository is **private** (due to client confidentiality).  
+📌 Repository is **private** (due to client confidentiality).  
 
 📸 *Some Screenshots:*  
 <p align="center">
-  <img src="assets/1.PNG" width="150" />
-  <img src="assets/2.PNG" width="150" />
-  <img src="assets/3.PNG" width="150" />
-  <img src="assets/8.PNG" width="150" />
-  <img src="assets/5.PNG" width="150" />
-  <img src="assets/6.PNG" width="150" />
+  <img src="assets/library-1.png" width="150" />
+  <img src="assets/library-2.png" width="150" />
+  <img src="assets/library-3.png" width="150" />
+  <img src="assets/library-4.png" width="150" />
+  <img src="assets/library-5.png" width="150" />
+  <img src="assets/library-6.png" width="150" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djawadsofian&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djawadsofian&layout=compact&theme=radical" />
+</p>
 
 ---
 
