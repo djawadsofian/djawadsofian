@@ -15,9 +15,7 @@
 # 🌱 Currently Learning
 📌 Expanding into **Backend Development** with:  
 - 🐍 Python  
-- ⚡ Django  
-- 🐳 Docker  
-- 🌐 Supabase  
+- ⚡ Django
 
 ---
 
@@ -38,8 +36,6 @@
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=fff)
 
 ### ⚙️ Backend & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
@@ -65,31 +61,11 @@
 
 ## 🚀 Major Projects
 
-### 🔹 Car Rental Platform
-A **full-featured web & mobile platform** where users can rent cars or post their own cars for rent.  
-- **Stack:** React, Firebase, Kotlin, Jetpack Compose.  
-- Includes **role-based access** (Consumer / Provider).  
-- Handles **image & data persistence** via Firebase.  
 
-👉 [View Repository](https://github.com/djawadsofian/car-rental)  
-
-📸 *Screenshots:*  
-![Car Rental Screenshot](assets/car-rental-1.png)  
-![Car Rental Screenshot](assets/car-rental-2.png)  
-
----
-
-### 🔹 Portfolio Admin Panel
-An **admin dashboard** to manage **photos, videos, and About section** in real-time.  
-- Powered by **Firebase Realtime Database & Storage**.  
-- Upload, delete, and display media with **persistent UI state**.  
-
-👉 [View Repository](https://github.com/djawadsofian/portfolio-admin)  
 
 ---
 
 ## 📊 GitHub Stats
-![Djawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=djawadsofian&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djawadsofian&layout=compact&theme=radical)  
 
 ---
