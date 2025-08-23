@@ -1,4 +1,4 @@
-# Hi, I'm Djawad Sofian 👋  
+# Hi, I'm Djawad 👋  
 💻 **Professional Frontend Developer** | React • TypeScript • Tailwind • Next.js  
 📱 Android Developer (Kotlin & Jetpack Compose)  
 
