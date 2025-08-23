@@ -93,7 +93,7 @@ A **professional website for a client’s library**, including book listings, se
   <img src="assets/1.PNG" width="150" />
   <img src="assets/2.PNG" width="150" />
   <img src="assets/3.PNG" width="150" />
-  <img src="assets/4.PNG" width="150" />
+  <img src="assets/8.PNG" width="150" />
   <img src="assets/5.PNG" width="150" />
   <img src="assets/6.PNG" width="150" />
 </p>
