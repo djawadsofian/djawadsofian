@@ -48,8 +48,8 @@ Admin dashboard for managing **photos, videos, and About section** in real time.
 ---
 
 ## 📊 GitHub Stats
-![Djawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=djawad-bf&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djawad-bf&layout=compact&theme=radical)  
+![Djawad's GitHub stats](https://github-readme-stats.vercel.app/api?username=djawadsofian&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djawadsofian&layout=compact&theme=radical)  
 
 ---
 
