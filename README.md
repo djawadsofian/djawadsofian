@@ -61,7 +61,41 @@
 
 ## 🚀 Major Projects
 
+### 🔹 PFE Project
+A **large-scale project** developed as my final year project.  
+- Focused on **modern frontend + backend integration**.  
+- Built with **React, Next.js, Tailwind, Django, Docker, and Supabase**.  
+- Includes authentication, admin dashboard, and smooth UI/UX.
 
+👉 [View Repository](https://github.com/djawadsofian/pfe) *(or live demo if you have one)*  
+
+📸 *Screenshots:*  
+<p align="center">
+  <img src="assets/pfe-1.png" width="150" />
+  <img src="assets/pfe-2.png" width="150" />
+  <img src="assets/pfe-3.png" width="150" />
+  <img src="assets/pfe-4.png" width="150" />
+  <img src="assets/pfe-5.png" width="150" />
+  <img src="assets/pfe-6.png" width="150" />
+</p>
+
+---
+
+### 🔹 Library Website (Client Project)
+A **professional website for a client’s library**, including book listings, search, and management tools.  
+- Developed with **React, TypeScript, Tailwind, Firebase**.  
+- Client-ready with responsive design and clean UI.  
+- Repository is **private** (due to client confidentiality).  
+
+📸 *Screenshots:*  
+<p align="center">
+  <img src="assets/library-1.png" width="150" />
+  <img src="assets/library-2.png" width="150" />
+  <img src="assets/library-3.png" width="150" />
+  <img src="assets/library-4.png" width="150" />
+  <img src="assets/library-5.png" width="150" />
+  <img src="assets/library-6.png" width="150" />
+</p>
 
 ---
 
