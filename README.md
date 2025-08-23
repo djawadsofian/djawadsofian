@@ -59,7 +59,7 @@
 *(Proof of professional expertise in the React ecosystem)*  
 
 📸 *Certificate Preview:*  
-![React Certificate](assets/react-certificate.png)  
+![React Certificate](assets/react-certificate.jpg)  
 
 ---
 
