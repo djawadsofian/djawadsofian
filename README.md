@@ -62,15 +62,34 @@
 
 ## 🚀 Major Projects
 
-### 🔹 PFE Project
-A **large-scale project** developed as my final year project.  
-- Focused on **modern frontend + backend integration**.  
-- Built with **React, Next.js, Tailwind, Django, Docker, and Supabase**.  
-- Includes authentication, admin dashboard, and smooth UI/UX.
+### 🔹 🎓 ProjectTrack – Academic Project Management Platform
 
-👉 [View Repository](https://github.com/djawadsofian/pfe) *(or live demo if you have one)*  
+Description:
+ProjectTrack is a full-featured academic project management platform I developed during my Master's studies at ESI SBA. The platform connects students, professors, companies, and administrators in one ecosystem, making project management more transparent, collaborative, and efficient.
 
-📸 *Screenshots:*  
+Highlights:
+
+✅ Built role-based dashboards tailored for students, professors, and administrators.
+
+✅ Enabled real-time collaboration with WebSocket technology (live notifications, instant project updates).
+
+✅ Designed and implemented the entire project lifecycle (proposal → validation → evaluation).
+
+✅ Organized projects across different specializations (ISI, SIW, AI) with scalable data models.
+
+✅ Delivered a high-performance architecture with Redux state management and Redis caching.
+
+✅ Ensured enterprise-grade security with JWT authentication and role-based access control.
+
+Tech Stack:
+
+Frontend: React.js (TypeScript), Tailwind CSS, Redux, WebSockets
+
+Backend: Django REST Framework, PostgreSQL, Redis, JWT Authentication
+
+👉 [View Repository](https://github.com/Yacine-Djaaraoui/PFE) 
+
+📸 *Some Screenshots:*  
 <p align="center">
   <img src="assets/1.jpg" width="150" />
   <img src="assets/2.png" width="150" />
@@ -82,13 +101,36 @@ A **large-scale project** developed as my final year project.
 
 ---
 
-### 🔹 Library Website (Client Project)
-A **professional website for a client’s library**, including book listings, search, and management tools.  
-- Developed with **React, TypeScript, Tailwind, Firebase**.  
-- Client-ready with responsive design and clean UI.  
+### 🔹 📚 The Official State Library Website of Tissemsilt
+
+This project involved building a modern, multilingual, and responsive website for the official state library of Tissemsilt. The platform was designed to provide a seamless digital experience for library visitors while giving administrators a powerful dashboard for managing content.
+
+🌟 Key Highlights
+
+20+ fully responsive pages with rich, user-friendly UI components.
+
+Multilingual support (Arabic, French, English) ensuring accessibility for diverse users.
+
+Room reservation system for managing study halls and library facilities.
+
+Book browsing & rating system with interactive comment sections.
+
+Dynamic testimonial section showcasing community engagement.
+
+Admin dashboard for content management, events, and announcements.
+
+🛠️ Tech Stack
+
+Frontend: React, TypeScript, TailwindCSS, TanStack Query, Redux
+
+Backend: Django REST Framework, PostgreSQL
+
+Others: Docker, Git, modern deployment practices
+
+
 - Repository is **private** (due to client confidentiality).  
 
-📸 *Screenshots:*  
+📸 *Some Screenshots:*  
 <p align="center">
   <img src="assets/1.PNG" width="150" />
   <img src="assets/2.PNG" width="150" />
@@ -106,9 +148,8 @@ A **professional website for a client’s library**, including book listings, se
 ---
 
 ## 🌐 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-- 🌍 [Portfolio Website](https://your-portfolio.com)  
-- 📧 **youremail@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/boufelghed-djawad-soufyane-848a92190/)  
+- 📧 **ds.boufelghed@esi-sba.dz**
 
 ---
 
