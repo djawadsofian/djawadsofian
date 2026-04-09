@@ -1,21 +1,23 @@
 # Hi, I'm Djawad 👋  
-💻 **Professional Frontend Developer** | React • TypeScript • Tailwind • Next.js  
+💻 **Professional Full-Stack Developer** | React • TypeScript • Tailwind • Next.js • Django  
 📱 Android Developer (Kotlin & Jetpack Compose)  
 
 ---
 
 ## 🚀 Professional Profile
 - 🎯 Specialized in building **modern, scalable, and user-focused web apps**.  
-- 🌟 Strong expertise in **React, Next.js, TypeScript, and TailwindCSS**.  
+- 🌟 Strong expertise in **React, Next.js, TypeScript, TailwindCSS, and Django**.  
+- 🔧 Experienced in **full-stack development (frontend + backend + APIs + deployment)**.  
 - 📱 Additional skills in **Android development (Kotlin & Jetpack Compose)**.  
 - 🌍 Based in **Algeria**, open to remote opportunities worldwide.  
 
 ---
 
 # 🌱 Currently Learning
-📌 Expanding into **Backend Development** using:  
-- 🐍 Python  
-- ⚡ Django  
+📌 Expanding into advanced backend and system design:  
+- ⚡ Scalable architectures  
+- 🧠 System design & performance optimization
+- ⚡ Devops
 
 ---
 
@@ -52,7 +54,7 @@
 
 ## 🏆 Certificates
 🎓 **React Developer Certificate**  
-*(Proof of professional expertise in the React ecosystem)*  
+*(Proof of professional expertise in React and Django ecosystem)*  
 
 📸 *Certificate Preview:*  
 
@@ -62,7 +64,39 @@
 
 ## 🚀 Major Projects
 
-> 🛠 Both projects were developed as part of **team collaborations**, where I played a key role in frontend development and system integration.
+> 🛠 projects were developed as part of **team collaborations**, where I played a key role in development and system integration.
+
+---
+
+### 🔹 🏢 Lift & Cable Installation Company Management Platform
+
+Full enterprise management system developed for a company to manage projects, inventory, invoices, and maintenance operations.
+
+✅ Full project lifecycle: client registration → project creation → verification → assignment → maintenance  
+✅ Advanced inventory management with stock tracking and profit calculations  
+✅ Invoice system with multi-line products and financial tracking  
+✅ Interactive calendar for scheduling and planning  
+✅ Secure authentication with JWT + role-based access (admin / assistant)  
+✅ Statistics dashboard with project and profit analytics  
+
+**Tech Stack**  
+Frontend: React, TypeScript, Tailwind CSS  
+Backend: Django , Django REST Framework ,SSE 
+DataBase : Postgesql
+DevOps: Docker
+
+🌐 **Production:** http://5.135.241.51/  
+
+📸 *Some Screenshots:*  
+<p align="center">
+  <img src="assets/1a.png" width="300" />
+  <img src="assets/2a.png" width="300" />
+  <img src="assets/3a.png" width="300" />
+  <img src="assets/4a.png" width="300" />
+  <img src="assets/5a.png" width="300" />
+</p>
+
+---
 
 ### 🔹 🎓 ProjectTrack – Academic Project Management Platform
 
@@ -96,6 +130,8 @@ Backend: Django REST Framework, PostgreSQL, Redis, JWT Authentication
 ### 🔹 📚 The Official State Library Website of Tissemsilt
 
 A modern, multilingual, and responsive website for the **official state library of Tissemsilt**. The platform delivers a seamless digital experience for visitors while providing administrators with powerful tools for content and facility management.  
+
+🌐 **Live Website:** https://bplptissemsilt.dz/  
 
 🌟 20+ fully responsive pages with dynamic UI components  
 🌟 Multilingual support (Arabic, French, English)  
