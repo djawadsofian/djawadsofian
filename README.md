@@ -1,5 +1,5 @@
 # Hi, I'm Djawad 👋  
-💻 **Professional Full-Stack Developer** |Django • Django Rest FrameWork • React • TypeScript • Tailwind • Next.js  
+💻 **Professional Full-Stack Developer** | Django • Django Rest FrameWork • React • TypeScript • Tailwind • Next.js  
 📱 Android Developer (Kotlin & Jetpack Compose)  
 
 ---
