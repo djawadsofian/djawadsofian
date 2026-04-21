@@ -88,7 +88,7 @@ Backend: Django , Django REST Framework ,SSE
 DataBase : Postgesql
 DevOps: Docker
 
-🌐 **Production:** http://5.135.241.51/  
+🌐 **Production:**
 
 📸 *Some Screenshots:*  
 <p align="center">
